@@ -1,0 +1,40 @@
+menu:
+  docs: Documentation
+  reference: Reference
+  news: News
+  repositories: Source Code
+  search: Search
+
+index:
+  get_started: Get started
+  get_started_docs: Documentation
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  docs:
+    getting_started: Getting Started
+    overview: Getting Started
+    about: About NodeKit
+    motivation: Motivation
+    related-concepts: Related Concepts
+    miscellaneous: Miscellaneous
+    free-and-open-source: Free and Open Source
+    target-audience: Tareget Audience
+  reference:
+    public: Reference API
+    nkscripting: NKScripting
+    nkelectro: NKElectro
+    nkcore: NKCore
+    internal: Internal API
+    nkscripting-internal: Extending NKScripting 
+    nkelectro-internal: Extending NKElectro
+    nkcore-internal: Extending NKCore
+  
+   

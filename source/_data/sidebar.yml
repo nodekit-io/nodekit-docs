@@ -1,0 +1,20 @@
+docs:
+  getting_started:
+    overview: index.html
+    about: about-nodekit.html
+    motivation: motivation.html
+    related-concepts: related-concepts.html
+  miscellaneous:
+    free-and-open-source: free-and-open-source.html
+    target-audience: target-audience.html
+ 
+reference:
+  public:
+    nkscripting: index.html
+    nkelectro: nkelectro.html
+    nkcore: nkcore.html
+  internal:
+    nkscripting-internal: nkscripting-internal.html
+    nkelectro-internal: nkelectro-internal.html
+    nkcore-internal: nkcore-internal.html
+ 

@@ -1,0 +1,32 @@
+title: "NodeKit"
+subtitle: "The {NK} NodeKit Project"
+description: "The universal, open-source, embedded engine that provides a full Node.js instance inside desktop and mobile applications for MacOS, iOS, Android, and Windows."
+author: OffGrid Networks
+language: en
+timezone: UTC
+url: https://nodekit.io
+root: /
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+highlight:
+  enable: true
+  line_number: false
+per_page: 0
+
+theme: nodekit-red
+deploy:
+  type: git
+  repo: git@github.com:nodekit-io/nodekit.github.io.git
+
+disqus_shortname: nodekit
+google_analytics: UA-TBD-10
+fb_admins: tbd
+algolia:
+  en:
+    api_key: aad27aa416b2ef8f02bf530f23234e2f
+    index_name: nodekit
+twitter: nodekitio
+github: nodekit-io/nodekit

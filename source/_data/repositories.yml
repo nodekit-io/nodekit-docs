@@ -1,0 +1,41 @@
+- name: nodekit
+  description: "NodeKit is the universal, open-source, embedded engine that provides a full ES5 / Node.js instance inside desktop and mobile applications for OS X, iOS, Android, and Windows"
+  link: https://github.com/nodekit-io/nodekit
+  tags:
+    - official
+    - core
+- name: nodekit-docs
+  description: "Documentation repository for NodeKit (nodekit.io)"
+  link: https://github.com/nodekit-io/nodekit-docs
+  tags:
+    - official
+    - core
+    - docs
+- name: nodekit-darwin
+  description: "iOS and MacOS version of NodeKit, full version"
+  link: https://github.com/nodekit-io/nodekit-darwin
+  tags:
+    - official
+    - core
+    - darwin
+- name: nodekit-darwin-lite
+  description: "iOS and MacOS version of NodeKit in slimmed down version using JavaScriptCore only"
+  link: https://github.com/nodekit-io/nodekit-darwin
+  tags:
+    - official
+    - core
+    - darwin
+- name: nodekit-windows
+  description: "Windows (UWP, Mobile, and Desktop) version of NodeKit"
+  link: https://github.com/nodekit-io/nodekit-windows
+  tags:
+    - official
+    - core
+    - windows
+- name: nodekit-android
+  description: "Android version of NodeKit (COMING SOON)"
+  link: https://github.com/nodekit-io/nodekit-android
+  tags:
+    - official
+    - core
+    - android

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /hexo-theme-landscape/
+Disallow: /hexo-theme-light/
+Disallow: /hexo-theme-phase
+Disallow: /nodekit-red
