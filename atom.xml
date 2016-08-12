@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NodeKit</title>
+  <subtitle>The {NK} NodeKit Project</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nodekit.io/"/>
+  <updated>2016-08-12T15:51:34.000Z</updated>
+  <id>https://nodekit.io/</id>
+  
+  <author>
+    <name>OffGrid Networks</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NodeKit 0.8 Released</title>
+    <link href="https://nodekit.io/news/2016/06/30/nodekit-0-8-released/"/>
+    <id>https://nodekit.io/news/2016/06/30/nodekit-0-8-released/</id>
+    <published>2016-07-01T00:00:00.000Z</published>
+    <updated>2016-08-12T15:51:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>NodeKit 0.8 is the current version of the the universal, open-source, embedded engine that provides a full ES5 / Node.js instance inside desktop and mobile applications for OS X, iOS, Android, and Windows</p>
+<p>It has been validated on MacOS, iOS and Windows platforms.   It does not yet included Android.</p>
+<img src="/news/2016/06/30/nodekit-0-8-released/launch.jpg" alt="launch.jpg" title="">]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;NodeKit 0.8 is the current version of the the universal, open-source, embedded engine that provides a full ES5 / Node.js instance inside 
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NodeKit 0.6 Released</title>
+    <link href="https://nodekit.io/news/2015/06/30/nodekit-0-8-released/"/>
+    <id>https://nodekit.io/news/2015/06/30/nodekit-0-8-released/</id>
+    <published>2015-07-01T00:00:00.000Z</published>
+    <updated>2016-08-12T15:51:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>NodeKit 0.6 is the fist stable version of the current version of the the universal, open-source, embedded engine that provides a full ES5 / Node.js instance inside desktop and mobile applications for OS X and iOS.  </p>
+<p>It does not currently include Windows or Android versions.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;NodeKit 0.6 is the fist stable version of the current version of the the universal, open-source, embedded engine that provides a full ES5
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
